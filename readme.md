@@ -17,6 +17,14 @@ This web application is used to *add*,*retrieve*,*search*,*delete* reports of th
 * Django 3.0.5
 * Sqlite 3
 
+### Database Schema Diagram
+
+![](https://bn1303files.storage.live.com/y4mlR26LChl62zoef42khBS9PYhmdJeNtxoGJPn0GfsDIdbBkUKryzQSLkAPxcqty5WlMFXW4PWBLgeLpKaLAX5ECymechK3XHunoBGVuA7L9917scrMFP-xAqBnFUBSCa6D7xgdhDXvNThZH4yH_ephTIULjdo_d3JwqfzPd40VhTtQlFBt29kojDTMf88mHY8?width=1951&height=986&cropmode=none)
+
+### ER Diagram
+
+![](https://chi01pap001files.storage.live.com/y4muETMZGzd8aP9ruQrDTv9DCP1br0KdUrXqsOwT4WXUDFtffCSqln4GZMUe34-hewxkiUv1vmJpNeRomz9Z6A2mV61ExSxdFK_xKa9cfgnH5M24R8k84pD42O-zhT7MZTVCN9OuIPUda5KvAWMY-ekKEUUWYGQs2vaJxf_ewGqbl9jQkYpcYtVRfc1cNQiwjaw?width=1470&height=1098&cropmode=none)
+
 ### Application Structure
 
 **Patient Module:** 
@@ -44,14 +52,6 @@ This web application is used to *add*,*retrieve*,*search*,*delete* reports of th
 
 - You can add prescription details such as name of patient, name of doctor, name of staff, date and time of prescription and doctor advice into the prescription relation. 
 - You can view all the registered prescription and search and delete a particular prescription if need. 
-
-### Database Schema Diagram
-
-![](https://bn1303files.storage.live.com/y4mlR26LChl62zoef42khBS9PYhmdJeNtxoGJPn0GfsDIdbBkUKryzQSLkAPxcqty5WlMFXW4PWBLgeLpKaLAX5ECymechK3XHunoBGVuA7L9917scrMFP-xAqBnFUBSCa6D7xgdhDXvNThZH4yH_ephTIULjdo_d3JwqfzPd40VhTtQlFBt29kojDTMf88mHY8?width=1951&height=986&cropmode=none)
-
-### ER Diagram
-
-![](https://chi01pap001files.storage.live.com/y4muETMZGzd8aP9ruQrDTv9DCP1br0KdUrXqsOwT4WXUDFtffCSqln4GZMUe34-hewxkiUv1vmJpNeRomz9Z6A2mV61ExSxdFK_xKa9cfgnH5M24R8k84pD42O-zhT7MZTVCN9OuIPUda5KvAWMY-ekKEUUWYGQs2vaJxf_ewGqbl9jQkYpcYtVRfc1cNQiwjaw?width=1470&height=1098&cropmode=none)
 
 ### Application Screenshots
 
